@@ -1,0 +1,6 @@
+.idea
+node_modules
+linkShortener.iml
+client/node_modules
+client/build
+package-lock.json

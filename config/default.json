@@ -1,0 +1,6 @@
+{
+  "port": 3007,
+  "jwtSecretKey": "shortenerJwt",
+  "mongoUri": "mongodb+srv://george:1234@cluster0.bjmkc.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:3007"
+}
